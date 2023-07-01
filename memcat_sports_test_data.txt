@@ -1,0 +1,200 @@
+path/to/images/sports/rowing/n00445351_11520.jpg,0.868686868686869
+path/to/images/sports/golf/n00464894_17474.jpg,0.68141592920354
+path/to/images/sports/skateboarding/a12da810b2390985.jpg,0.759615384615385
+path/to/images/sports/baseball/000000073889.jpg,0.777777777777778
+path/to/images/sports/frisbee/000000517460.jpg,0.902173913043478
+path/to/images/sports/climbing/58d3cc60b1415406.jpg,0.621359223300971
+path/to/images/sports/roller skating/16f51edf6ef907f5.jpg,0.826086956521739
+path/to/images/sports/rugby/n00470966_20042.jpg,0.82051282051282
+path/to/images/sports/figure skating/e1bbc2771fd99868.jpg,0.910891089108911
+path/to/images/sports/golf/n00464894_14750.jpg,0.73394495412844
+path/to/images/sports/fitness/f66e57fa9da8361e.jpg,0.875
+path/to/images/sports/mountain biking/2a9c95d441f4958e.jpg,0.680412371134021
+path/to/images/sports/soccer/000000576630.jpg,0.765432098765432
+path/to/images/sports/frisbee/000000274745.jpg,0.897727272727273
+path/to/images/sports/climbing/f219956ea092db6b.jpg,0.737864077669903
+path/to/images/sports/karate/c1dba2c782343dbc.jpg,0.876288659793814
+path/to/images/sports/rowing/ebda4cc826b4f92f.jpg,0.846153846153846
+path/to/images/sports/climbing/fb27b24865985601.jpg,0.693877551020408
+path/to/images/sports/skiing/000000492261.jpg,0.70873786407767
+path/to/images/sports/surfing/000000325242.jpg,0.824175824175824
+path/to/images/sports/gymnastics/db2d4827104ccd7b.jpg,0.87962962962963
+path/to/images/sports/volleyball/19ad73a14d324952.jpg,0.836538461538462
+path/to/images/sports/fencing/cb015f171d060a5f.jpg,0.813725490196078
+path/to/images/sports/volleyball/55ef7b5629ffa944.jpg,0.8
+path/to/images/sports/boxing/347d6c8639a1bb09.jpg,0.840909090909091
+path/to/images/sports/snowboarding/000000531696.jpg,0.735294117647059
+path/to/images/sports/ice hockey/c2a4e9b103e44933.jpg,0.711340206185567
+path/to/images/sports/cricket/c2255c3aaf4113a0.jpg,0.74390243902439
+path/to/images/sports/skateboarding/000000362005.jpg,0.860215053763441
+path/to/images/sports/climbing/cf8d98b8ad0d78f0.jpg,0.866666666666667
+path/to/images/sports/climbing/7e9596503b795607.jpg,0.847619047619048
+path/to/images/sports/swimming/70b5c729686aa098.jpg,0.740740740740741
+path/to/images/sports/japanese martial arts/26029c6c44ee5452.jpg,0.839080459770115
+path/to/images/sports/rowing/a031d2fef6592365.jpg,0.787878787878788
+path/to/images/sports/tennis/000000086514.jpg,0.752475247524752
+path/to/images/sports/swimming/09559c676569a5dc.jpg,0.791666666666667
+path/to/images/sports/swimming/df438d38ff6da2cc.jpg,0.926605504587156
+path/to/images/sports/field hockey/059520433a9809d0.jpg,0.833333333333333
+path/to/images/sports/track and field/bdbf922bf296ca72.jpg,0.716981132075472
+path/to/images/sports/basketball/c0256abf502efa34.jpg,0.821428571428571
+path/to/images/sports/skiing/000000436203.jpg,0.707964601769911
+path/to/images/sports/japanese martial arts/23a9162f4356427c.jpg,0.84070796460177
+path/to/images/sports/gymnastics/61f624ac32c56eba.jpg,0.847826086956522
+path/to/images/sports/basketball/68f8fc6ce822f1f5.jpg,0.858407079646018
+path/to/images/sports/archery/0b1bb550e8758b2e.jpg,0.953271028037383
+path/to/images/sports/soccer/000000003375.jpg,0.666666666666667
+path/to/images/sports/snowboarding/000000366379.jpg,0.674418604651163
+path/to/images/sports/bicycling racing/73ef896ab275b791.jpg,0.790697674418605
+path/to/images/sports/skateboarding/000000027482.jpg,0.839285714285714
+path/to/images/sports/archery/8825ee691220a1b4.jpg,0.878787878787879
+path/to/images/sports/field hockey/d845f120e4b794cd.jpg,0.745454545454545
+path/to/images/sports/skateboarding/f4333d13560136a2.jpg,0.865168539325843
+path/to/images/sports/ice hockey/2be8f0738a9a1c97.jpg,0.838095238095238
+path/to/images/sports/rugby/ac7c8233108052d9.jpg,0.785714285714286
+path/to/images/sports/soccer/000000063791.jpg,0.754901960784314
+path/to/images/sports/boxing/b295ce363a6fc653.jpg,0.8
+path/to/images/sports/tennis/000000461945.jpg,0.775510204081633
+path/to/images/sports/skiing/n00440941_11436.jpg,0.833333333333333
+path/to/images/sports/figure skating/0ca3663d4e237556.jpg,0.898989898989899
+path/to/images/sports/volleyball/c0e4b9fbfa6574e2.jpg,0.786324786324786
+path/to/images/sports/soccer/000000515075.jpg,0.670212765957447
+path/to/images/sports/roller skating/bb49641de5d0abe8.jpg,0.754716981132076
+path/to/images/sports/cricket/94a31ee11cd9ff43.jpg,0.677777777777778
+path/to/images/sports/gymnastics/ec79dfe1948600e6.jpg,0.785714285714286
+path/to/images/sports/roller skating/c2b8e5978146d18e.jpg,0.784313725490196
+path/to/images/sports/surfing/000000061566.jpg,0.782608695652174
+path/to/images/sports/swimming/c995d61ef36e818c.jpg,0.855670103092783
+path/to/images/sports/field hockey/28c1742dab03a143.jpg,0.79047619047619
+path/to/images/sports/basketball/n00480993_1552.jpg,0.775700934579439
+path/to/images/sports/tennis/000000213146.jpg,0.75
+path/to/images/sports/bicycling racing/56136a5dd78b5454.jpg,0.731958762886598
+path/to/images/sports/gymnastics/2f9ea40fc5161426.jpg,0.931818181818182
+path/to/images/sports/tennis/000000171585.jpg,0.625
+path/to/images/sports/gymnastics/cc1482ab9b518746.jpg,0.803921568627451
+path/to/images/sports/japanese martial arts/03f1ef1359dbf0c1.jpg,0.881188118811881
+path/to/images/sports/track and field/fe29c78b3285e4c7.jpg,0.884615384615385
+path/to/images/sports/roller skating/56c8e6f1b804c529.jpg,0.828828828828829
+path/to/images/sports/skiing/n00440941_10444.jpg,0.69811320754717
+path/to/images/sports/skiing/000000291373.jpg,0.75
+path/to/images/sports/frisbee/000000034372.jpg,0.652173913043478
+path/to/images/sports/rugby/n00470966_19202.jpg,0.681318681318681
+path/to/images/sports/fitness/919170eeb33e7a6a.jpg,0.705263157894737
+path/to/images/sports/skateboarding/94c53be316c9a02e.jpg,0.873417721518987
+path/to/images/sports/japanese martial arts/99b99a22a0354651.jpg,0.912621359223301
+path/to/images/sports/climbing/fb3c94d3b516194f.jpg,0.693069306930693
+path/to/images/sports/boxing/1c6f8910c177c94a.jpg,0.83695652173913
+path/to/images/sports/basketball/n00480993_11381.jpg,0.592592592592593
+path/to/images/sports/golf/eacf12733f79d8e5.jpg,0.776785714285714
+path/to/images/sports/snowboarding/000000093075.jpg,0.776785714285714
+path/to/images/sports/swimming/e5b6070d981b49ac.jpg,0.841121495327103
+path/to/images/sports/golf/e371a76b33265b9d.jpg,0.78021978021978
+path/to/images/sports/japanese martial arts/29af2f1dd764c49f.jpg,0.815217391304348
+path/to/images/sports/fitness/92bdb469c67a7096.jpg,0.823008849557522
+path/to/images/sports/basketball/0fa51275d53a13f9.jpg,0.766990291262136
+path/to/images/sports/track and field/3a78bd605848b134.jpg,0.805825242718447
+path/to/images/sports/swimming/9ac4285e20a4e1f3.jpg,0.816091954022989
+path/to/images/sports/karate/6066408c8757fe60.jpg,0.925531914893617
+path/to/images/sports/rowing/n00445351_7834.jpg,0.781818181818182
+path/to/images/sports/track and field/n00439826_6690.jpg,0.723809523809524
+path/to/images/sports/baseball/000000134454.jpg,0.783505154639175
+path/to/images/sports/baseball/000000112707.jpg,0.835294117647059
+path/to/images/sports/baseball/000000383390.jpg,0.760416666666667
+path/to/images/sports/snowboarding/000000479149.jpg,0.75
+path/to/images/sports/surfing/000000240275.jpg,0.841584158415842
+path/to/images/sports/soccer/000000406908.jpg,0.652631578947368
+path/to/images/sports/rowing/n00445351_6286.jpg,0.841584158415842
+path/to/images/sports/rowing/cc4c4cdc33cc4b40.jpg,0.76056338028169
+path/to/images/sports/baseball/000000084735.jpg,0.784313725490196
+path/to/images/sports/volleyball/9bb7ade68141ee60.jpg,0.725663716814159
+path/to/images/sports/frisbee/000000031390.jpg,0.881578947368421
+path/to/images/sports/climbing/6ce2d149d4ed4a8d.jpg,0.922330097087379
+path/to/images/sports/figure skating/d631ea99f1ce3ac7.jpg,0.927835051546392
+path/to/images/sports/baseball/000000486717.jpg,0.738317757009346
+path/to/images/sports/surfing/000000358674.jpg,0.625
+path/to/images/sports/boxing/285636c369173887.jpg,0.827272727272727
+path/to/images/sports/rowing/03fb5628ea9fc281.jpg,0.724137931034483
+path/to/images/sports/basketball/n00480993_29630.jpg,0.523255813953488
+path/to/images/sports/climbing/24789502099f7a37.jpg,0.808510638297872
+path/to/images/sports/lacrosse/eabaa6a885b0d2b4.jpg,0.801801801801802
+path/to/images/sports/skateboarding/000000374270.jpg,0.84
+path/to/images/sports/boxing/00770ee8f5ad87ef.jpg,0.885714285714286
+path/to/images/sports/boxing/94e06c3d152f3c62.jpg,0.758241758241758
+path/to/images/sports/golf/083327ccfc4b1684.jpg,0.772727272727273
+path/to/images/sports/boxing/2b2693c2d6b8182a.jpg,0.811475409836066
+path/to/images/sports/swimming/6a9bb06320a811de.jpg,0.821052631578947
+path/to/images/sports/fencing/533b85f1b088732d.jpg,0.852631578947368
+path/to/images/sports/skiing/000000240817.jpg,0.778761061946903
+path/to/images/sports/mountain biking/7ed3fbc0d52eae5d.jpg,0.738317757009346
+path/to/images/sports/field hockey/c7bd4572143537bc.jpg,0.793103448275862
+path/to/images/sports/ice hockey/83ab987502a09a6b.jpg,0.826923076923077
+path/to/images/sports/frisbee/000000056868.jpg,0.609756097560976
+path/to/images/sports/climbing/329bcdeadf3bf80b.jpg,0.588888888888889
+path/to/images/sports/frisbee/000000211737.jpg,0.767676767676768
+path/to/images/sports/archery/0b7f82b25acda3ee.jpg,0.85981308411215
+path/to/images/sports/rugby/75b729e50df80c11.jpg,0.843137254901961
+path/to/images/sports/japanese martial arts/0fe3f79c9523477a.jpg,0.839080459770115
+path/to/images/sports/basketball/n00480993_22829.jpg,0.818181818181818
+path/to/images/sports/climbing/2807d80c525eb5a3.jpg,0.632183908045977
+path/to/images/sports/soccer/000000350444.jpg,0.777777777777778
+path/to/images/sports/baseball/000000103401.jpg,0.71875
+path/to/images/sports/bicycling racing/218a7e0c84466325.jpg,0.72289156626506
+path/to/images/sports/roller skating/1b9c7e12abbe940e.jpg,0.815533980582524
+path/to/images/sports/snowboarding/000000421535.jpg,0.802325581395349
+path/to/images/sports/surfing/000000485310.jpg,0.776595744680851
+path/to/images/sports/swimming/1ee7cc0aa473bb16.jpg,0.871287128712871
+path/to/images/sports/skiing/000000497199.jpg,0.743119266055046
+path/to/images/sports/soccer/000000257387.jpg,0.854166666666667
+path/to/images/sports/lacrosse/fc14f1cce131d551.jpg,0.714285714285714
+path/to/images/sports/snowboarding/000000455108.jpg,0.854700854700855
+path/to/images/sports/frisbee/000000050013.jpg,0.762886597938144
+path/to/images/sports/field hockey/82996269f0e2fe5b.jpg,0.772727272727273
+path/to/images/sports/bicycling racing/d62b42c4e5e7ee36.jpg,0.801724137931034
+path/to/images/sports/soccer/000000417616.jpg,0.83
+path/to/images/sports/surfing/000000479880.jpg,0.910891089108911
+path/to/images/sports/soccer/000000388564.jpg,0.887755102040816
+path/to/images/sports/golf/n00464894_9642.jpg,0.767441860465116
+path/to/images/sports/ice hockey/118e34b1af1942e8.jpg,0.8
+path/to/images/sports/rowing/8ea0e36018513b71.jpg,0.895833333333333
+path/to/images/sports/surfing/000000092067.jpg,0.777777777777778
+path/to/images/sports/soccer/000000095321.jpg,0.591397849462366
+path/to/images/sports/japanese martial arts/6cb54fd6e4b8ecbe.jpg,0.736263736263736
+path/to/images/sports/japanese martial arts/753f4def4738bbde.jpg,0.84375
+path/to/images/sports/snowboarding/000000393333.jpg,0.739583333333333
+path/to/images/sports/climbing/c2a4e2dc3a23410b.jpg,0.860215053763441
+path/to/images/sports/rowing/n00445351_7035.jpg,0.631578947368421
+path/to/images/sports/surfing/000000578736.jpg,0.857142857142857
+path/to/images/sports/surfing/000000034267.jpg,0.806818181818182
+path/to/images/sports/swimming/42c36ba3ef87c91f.jpg,0.859649122807018
+path/to/images/sports/rowing/a6c9c4affde9a6a2.jpg,0.727272727272727
+path/to/images/sports/baseball/000000106331.jpg,0.56989247311828
+path/to/images/sports/figure skating/3ee15aa26a7d7286.jpg,0.787234042553192
+path/to/images/sports/climbing/1a0734e1d6dad26d.jpg,0.765957446808511
+path/to/images/sports/roller skating/8495ab3a5a40c791.jpg,0.626262626262626
+path/to/images/sports/surfing/000000050756.jpg,0.580952380952381
+path/to/images/sports/karate/c9f3254d7fc34b31.jpg,0.823008849557522
+path/to/images/sports/golf/bb02343a8664e896.jpg,0.787878787878788
+path/to/images/sports/frisbee/000000282062.jpg,0.846153846153846
+path/to/images/sports/bicycling racing/b1845e14ee7ee3f2.jpg,0.688888888888889
+path/to/images/sports/soccer/000000371874.jpg,0.885714285714286
+path/to/images/sports/ice hockey/6ee605e86e56e0e3.jpg,0.769230769230769
+path/to/images/sports/frisbee/000000358086.jpg,0.707865168539326
+path/to/images/sports/japanese martial arts/e5b67ef6e91c1cf2.jpg,0.885057471264368
+path/to/images/sports/baseball/000000479172.jpg,0.858490566037736
+path/to/images/sports/track and field/82e1c2342dbc7cc0.jpg,0.852459016393443
+path/to/images/sports/japanese martial arts/fdb183631f320b49.jpg,0.775862068965517
+path/to/images/sports/rowing/b5d4d36dc92c682e.jpg,0.882352941176471
+path/to/images/sports/track and field/n00439826_6315.jpg,0.801980198019802
+path/to/images/sports/baseball/000000093382.jpg,0.660194174757282
+path/to/images/sports/fencing/bfd7722e868e772c.jpg,0.87962962962963
+path/to/images/sports/cricket/1679b6bb52a8a870.jpg,0.564705882352941
+path/to/images/sports/golf/n00464894_13058.jpg,0.857142857142857
+path/to/images/sports/mountain biking/0af7ea4cedd9727f.jpg,0.685393258426966
+path/to/images/sports/field hockey/f67573fffea45d60.jpg,0.858695652173913
+path/to/images/sports/golf/cee06f136258d4eb.jpg,0.803571428571429
+path/to/images/sports/rowing/c6789c5bd0d392a6.jpg,0.747663551401869
+path/to/images/sports/climbing/81e422c0b2173f38.jpg,0.696969696969697
+path/to/images/sports/frisbee/000000388486.jpg,0.831578947368421
+path/to/images/sports/skateboarding/436dc60472022f84.jpg,0.757894736842105
+path/to/images/sports/snowboarding/000000200959.jpg,0.744897959183674
+path/to/images/sports/climbing/f51c25ceeb2c1fe3.jpg,0.637795275590551

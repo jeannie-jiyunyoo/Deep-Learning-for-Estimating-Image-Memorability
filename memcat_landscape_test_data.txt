@@ -1,0 +1,200 @@
+path/to/images/landscape/plantation/eef37194bf91e872.jpg,0.620253164556962
+path/to/images/landscape/icescape/n09289331_6307.jpg,0.809090909090909
+path/to/images/landscape/sea/n09376198_15467.jpg,0.742574257425743
+path/to/images/landscape/badlands/sun_ajtvysscoirnzowp.jpg,0.733333333333333
+path/to/images/landscape/geyser/n09288635_13817.jpg,0.86
+path/to/images/landscape/field/n09393605_35662.jpg,0.326530612244898
+path/to/images/landscape/pasture/n07801091_50222.jpg,0.479166666666667
+path/to/images/landscape/river/sun_aaflmulbtigwigtw.jpg,0.417582417582418
+path/to/images/landscape/forest (needleleaf)/sun_akfadmdtlbduiiyc.jpg,0.533980582524272
+path/to/images/landscape/icescape/n09289331_5250.jpg,0.722222222222222
+path/to/images/landscape/forest (needleleaf)/sun_atmrwrneqsvfgvoh.jpg,0.653465346534653
+path/to/images/landscape/mountain/n09359803_32774.jpg,0.5
+path/to/images/landscape/valley/n09468604_44919.jpg,0.680412371134021
+path/to/images/landscape/geyser/n09288635_11510.jpg,0.416666666666667
+path/to/images/landscape/field/sun_acipoggjpwiqmypg.jpg,0.742857142857143
+path/to/images/landscape/moor/sun_bntcgmzpfvbsrugd.jpg,0.524752475247525
+path/to/images/landscape/plantation/ed4ccd8a49df17f4.jpg,0.565217391304348
+path/to/images/landscape/field/sun_ajljoxfiwrskkpcc.jpg,0.666666666666667
+path/to/images/landscape/shore/n09217230_1761.jpg,0.595959595959596
+path/to/images/landscape/volcano/n09472597_14703.jpg,0.5
+path/to/images/landscape/jungle/2dd9378cf8e0c8ad.jpg,0.891089108910891
+path/to/images/landscape/wetland/eb8f7163a6a2866f.jpg,0.535714285714286
+path/to/images/landscape/forest (broadleaf)/sun_ahksbkeqopdxmskp.jpg,0.406593406593407
+path/to/images/landscape/windmill/n04587559_11280.jpg,0.542553191489362
+path/to/images/landscape/desert/n09270735_4178.jpg,0.597938144329897
+path/to/images/landscape/snowscape/781c958107e86dcb.jpg,0.568627450980392
+path/to/images/landscape/lake/b429762904ba65cd.jpg,0.485981308411215
+path/to/images/landscape/forest (broadleaf)/dffd1edf2a50c720.jpg,0.75
+path/to/images/landscape/savanna/4f2ffae85d9ce07b.jpg,0.563829787234043
+path/to/images/landscape/field/n12142085_35169.jpg,0.673469387755102
+path/to/images/landscape/field/n09393605_55896.jpg,0.371428571428571
+path/to/images/landscape/waterfall/sun_adnvqdckimyapvud.jpg,0.714285714285714
+path/to/images/landscape/lake/sun_aafblbfkfftldfxp.jpg,0.345794392523364
+path/to/images/landscape/plantation/bc743d915bf7db9e.jpg,0.728260869565217
+path/to/images/landscape/waterfall/sun_avdpvygwmitpiwrm.jpg,0.58
+path/to/images/landscape/volcano/n09472597_32202.jpg,0.647058823529412
+path/to/images/landscape/waterfall/sun_aojesriwyfxrcrqz.jpg,0.611650485436893
+path/to/images/landscape/forest (broadleaf)/sun_ajcjwmqklddutzvc.jpg,0.548076923076923
+path/to/images/landscape/wetland/5b51fadf42110451.jpg,0.649484536082474
+path/to/images/landscape/barn/n02793495_8638.jpg,0.681318681318681
+path/to/images/landscape/sea/n09376198_7248.jpg,0.65625
+path/to/images/landscape/lake/n03634034_7874.jpg,0.553191489361702
+path/to/images/landscape/icescape/n09308572_3735.jpg,0.887640449438202
+path/to/images/landscape/barn/n02793495_7616.jpg,0.526315789473684
+path/to/images/landscape/badlands/98a873a3a095d8a4.jpg,0.336538461538462
+path/to/images/landscape/snowscape/89053529c35762a7.jpg,0.722222222222222
+path/to/images/landscape/shore/n09428293_45308.jpg,0.6
+path/to/images/landscape/creek/sun_aqjctcdzynstdphs.jpg,0.538461538461538
+path/to/images/landscape/river/sun_aspvmwpnzvvxbbft.jpg,0.523364485981308
+path/to/images/landscape/badlands/c7664b0fa8cf14c0.jpg,0.607843137254902
+path/to/images/landscape/forest (broadleaf)/sun_axljvtbankrkckne.jpg,0.414634146341463
+path/to/images/landscape/sea/n09376198_19423.jpg,0.561904761904762
+path/to/images/landscape/jungle/612f8c0c59f8ff5e.jpg,0.615384615384615
+path/to/images/landscape/river/n09415671_5470.jpg,0.477272727272727
+path/to/images/landscape/snowscape/df1a1069546aaebe.jpg,0.79047619047619
+path/to/images/landscape/desert/n09270735_9551.jpg,0.744444444444444
+path/to/images/landscape/waterfall/sun_blrcuczqoxmuvmqc.jpg,0.813725490196078
+path/to/images/landscape/shore/n09421951_10110.jpg,0.467289719626168
+path/to/images/landscape/forest (needleleaf)/0766fa7959728beb.jpg,0.488888888888889
+path/to/images/landscape/windmill/n04587559_13045.jpg,0.705882352941177
+path/to/images/landscape/valley/n09468604_29491.jpg,0.595959595959596
+path/to/images/landscape/pasture/sun_avipgcjbbnedfqla.jpg,0.563829787234043
+path/to/images/landscape/forest (broadleaf)/b6bead8e3f65991b.jpg,0.388349514563107
+path/to/images/landscape/jungle/3f552ebe5afa4382.jpg,0.718446601941748
+path/to/images/landscape/pasture/sun_ayaekrkszrutbauj.jpg,0.470588235294118
+path/to/images/landscape/valley/n09468604_52089.jpg,0.505747126436782
+path/to/images/landscape/waterfall/sun_andvaoamnpthswld.jpg,0.65979381443299
+path/to/images/landscape/forest (broadleaf)/sun_anqplteihhyjtglu.jpg,0.362745098039216
+path/to/images/landscape/creek/4b9dd131b6d77acd.jpg,0.795918367346939
+path/to/images/landscape/waterfall/sun_ayyuirpvrzyeopqo.jpg,0.607142857142857
+path/to/images/landscape/creek/sun_aioimawbzwwqcygr.jpg,0.709090909090909
+path/to/images/landscape/icescape/n09308572_1813.jpg,0.458333333333333
+path/to/images/landscape/waterfall/sun_aydqgtfzqiiuyrmb.jpg,0.855670103092783
+path/to/images/landscape/jungle/18bed2a09181a499.jpg,0.633333333333333
+path/to/images/landscape/lake/n03634034_3909.jpg,0.764044943820225
+path/to/images/landscape/wetland/8041d5c6a1f2ea69.jpg,0.566037735849057
+path/to/images/landscape/pasture/n07801091_63866.jpg,0.761467889908257
+path/to/images/landscape/shore/n09217230_9549.jpg,0.776595744680851
+path/to/images/landscape/sea/n09376198_22948.jpg,0.71551724137931
+path/to/images/landscape/forest (needleleaf)/sun_avesoizwcqbojcvm.jpg,0.373913043478261
+path/to/images/landscape/river/n09415671_9241.jpg,0.6
+path/to/images/landscape/forest (needleleaf)/sun_apkofvbpiueutjgo.jpg,0.350877192982456
+path/to/images/landscape/sea/n09376198_14571.jpg,0.60377358490566
+path/to/images/landscape/lake/sun_asjykgigfzcqfruu.jpg,0.692307692307692
+path/to/images/landscape/field/sun_akdbxepnruyrbtrp.jpg,0.524271844660194
+path/to/images/landscape/desert/n09270735_30434.jpg,0.565217391304348
+path/to/images/landscape/creek/140890848a829520.jpg,0.717647058823529
+path/to/images/landscape/geyser/n09288635_695.jpg,0.559139784946237
+path/to/images/landscape/shore/n09421951_5438.jpg,0.466019417475728
+path/to/images/landscape/waterfall/sun_apeqefglcpzjswde.jpg,0.711340206185567
+path/to/images/landscape/geyser/n09288635_6860.jpg,0.720430107526882
+path/to/images/landscape/lake/sun_aamfjaaldpjwzuma.jpg,0.459770114942529
+path/to/images/landscape/forest (needleleaf)/sun_aqxqzdeqnlrkfuhn.jpg,0.545454545454545
+path/to/images/landscape/barn/n02793495_7388.jpg,0.726315789473684
+path/to/images/landscape/wetland/06ffee7f6da90b3e.jpg,0.680851063829787
+path/to/images/landscape/waterfall/sun_ahtmadjqgksjnnnb.jpg,0.479166666666667
+path/to/images/landscape/mangrove/n12345899_7715.jpg,0.712871287128713
+path/to/images/landscape/river/n09415671_11747.jpg,0.470588235294118
+path/to/images/landscape/wetland/a37210e099a24d22.jpg,0.633333333333333
+path/to/images/landscape/badlands/sun_auqxyqokuctxomkt.jpg,0.589473684210526
+path/to/images/landscape/badlands/sun_aosvqijvmwznjrsh.jpg,0.454545454545455
+path/to/images/landscape/barn/n02793495_14549.jpg,0.706422018348624
+path/to/images/landscape/snowscape/3586e65570d0d5d0.jpg,0.62037037037037
+path/to/images/landscape/valley/n09468604_995.jpg,0.489130434782609
+path/to/images/landscape/valley/n09468604_21841.jpg,0.581632653061224
+path/to/images/landscape/river/n09415671_10421.jpg,0.56140350877193
+path/to/images/landscape/plantation/de8c1602324aa20a.jpg,0.604166666666667
+path/to/images/landscape/badlands/sun_akynhepkzcxxkgow.jpg,0.452173913043478
+path/to/images/landscape/windmill/n04587559_11777.jpg,0.724489795918367
+path/to/images/landscape/forest (needleleaf)/sun_aucxqplfgkjwgjrf.jpg,0.327433628318584
+path/to/images/landscape/field/n09393605_43491.jpg,0.422222222222222
+path/to/images/landscape/forest (needleleaf)/sun_akckbypmzxubxzyf.jpg,0.565217391304348
+path/to/images/landscape/barn/n02793495_19836.jpg,0.760869565217391
+path/to/images/landscape/volcano/n09472597_15575.jpg,0.568627450980392
+path/to/images/landscape/desert/n09270735_31455.jpg,0.418032786885246
+path/to/images/landscape/plantation/2c0fb4cdbd9f1bf3.jpg,0.675
+path/to/images/landscape/creek/9e81775a5eb30dd0.jpg,0.709677419354839
+path/to/images/landscape/field/n09393605_15838.jpg,0.902912621359223
+path/to/images/landscape/mountain/n09359803_28021.jpg,0.339622641509434
+path/to/images/landscape/savanna/5ddb40615b3a538e.jpg,0.632075471698113
+path/to/images/landscape/desert/n09270735_19890.jpg,0.626373626373626
+path/to/images/landscape/desert/n09270735_7649.jpg,0.781609195402299
+path/to/images/landscape/geyser/n09288635_1526.jpg,0.633333333333333
+path/to/images/landscape/desert/n09270735_3519.jpg,0.824561403508772
+path/to/images/landscape/waterfall/sun_addjezlmejyekcyx.jpg,0.787878787878788
+path/to/images/landscape/forest (broadleaf)/sun_afpnqehwapeidjtp.jpg,0.414893617021277
+path/to/images/landscape/sea/n09376198_21567.jpg,0.517241379310345
+path/to/images/landscape/mountain/n09359803_42072.jpg,0.485148514851485
+path/to/images/landscape/forest (broadleaf)/sun_axcystsdjzbhixci.jpg,0.700854700854701
+path/to/images/landscape/lake/0189d61b2c1df778.jpg,0.424242424242424
+path/to/images/landscape/forest (needleleaf)/sun_awhqearfoticgzwy.jpg,0.666666666666667
+path/to/images/landscape/field/n09393605_22474.jpg,0.742574257425743
+path/to/images/landscape/geyser/n09288635_1109.jpg,0.673684210526316
+path/to/images/landscape/badlands/9dab048bfbdd7bbb.jpg,0.591397849462366
+path/to/images/landscape/river/n09415671_2370.jpg,0.669902912621359
+path/to/images/landscape/lake/n03634034_724.jpg,0.517857142857143
+path/to/images/landscape/creek/813c63e15bffdef1.jpg,0.702127659574468
+path/to/images/landscape/field/n09393605_21966.jpg,0.388349514563107
+path/to/images/landscape/valley/n09468604_15022.jpg,0.371900826446281
+path/to/images/landscape/badlands/sun_annigentdnxzfcct.jpg,0.316831683168317
+path/to/images/landscape/creek/sun_aaacmydfmcozlpel.jpg,0.807692307692308
+path/to/images/landscape/pasture/n07801091_50877.jpg,0.478991596638655
+path/to/images/landscape/shore/n09428293_6924.jpg,0.611764705882353
+path/to/images/landscape/volcano/n09472597_23094.jpg,0.395348837209302
+path/to/images/landscape/volcano/n09472597_36813.jpg,0.669565217391304
+path/to/images/landscape/shore/n09217230_2326.jpg,0.576923076923077
+path/to/images/landscape/tundra/sun_aysvauwwrhbjujnn.jpg,0.389473684210526
+path/to/images/landscape/mountain/n09359803_29193.jpg,0.520833333333333
+path/to/images/landscape/snowscape/19f5c3b3a490beff.jpg,0.641509433962264
+path/to/images/landscape/forest (needleleaf)/sun_awchwppuydqjifvx.jpg,0.375
+path/to/images/landscape/forest (broadleaf)/sun_augxrcssyuvvueda.jpg,0.22093023255814
+path/to/images/landscape/desert/n09270735_159.jpg,0.745098039215686
+path/to/images/landscape/valley/n09468604_22643.jpg,0.576923076923077
+path/to/images/landscape/volcano/n09472597_22931.jpg,0.681034482758621
+path/to/images/landscape/valley/n09468604_18467.jpg,0.494505494505495
+path/to/images/landscape/icescape/n09289331_7730.jpg,0.333333333333333
+path/to/images/landscape/jungle/56a3ce4a8899ace1.jpg,0.518867924528302
+path/to/images/landscape/plantation/ad4514d57db0f8cf.jpg,0.860215053763441
+path/to/images/landscape/valley/n09468604_57366.jpg,0.85
+path/to/images/landscape/snowscape/sun_acpxaistqyimycdc.jpg,0.318681318681319
+path/to/images/landscape/lake/sun_anulfarlvylcbpok.jpg,0.390804597701149
+path/to/images/landscape/lake/sun_aoikosjowjxkztio.jpg,0.462962962962963
+path/to/images/landscape/shore/n09428293_47263.jpg,0.6875
+path/to/images/landscape/field/n09393605_8686.jpg,0.845588235294118
+path/to/images/landscape/river/n09415671_10796.jpg,0.477064220183486
+path/to/images/landscape/volcano/n09472597_29635.jpg,0.440860215053763
+path/to/images/landscape/valley/n09468604_47515.jpg,0.556818181818182
+path/to/images/landscape/volcano/n09472597_52504.jpg,0.653465346534653
+path/to/images/landscape/plantation/c325b519607e21dc.jpg,0.641509433962264
+path/to/images/landscape/badlands/sun_anowzijwkurybpjf.jpg,0.489130434782609
+path/to/images/landscape/forest (needleleaf)/sun_aaifkdzmoajrzxqn.jpg,0.676767676767677
+path/to/images/landscape/desert/sun_axftaijddzvbjaik.jpg,0.672727272727273
+path/to/images/landscape/pasture/sun_acrjprsyfggvkvim.jpg,0.36734693877551
+path/to/images/landscape/valley/n09468604_51842.jpg,0.559322033898305
+path/to/images/landscape/mountain/n09303008_18869.jpg,0.536585365853659
+path/to/images/landscape/geyser/n09288635_4056.jpg,0.688679245283019
+path/to/images/landscape/geyser/n09288635_11614.jpg,0.736842105263158
+path/to/images/landscape/desert/n09270735_10417.jpg,0.707547169811321
+path/to/images/landscape/valley/n09468604_15728.jpg,0.655555555555556
+path/to/images/landscape/jungle/eb54616eb4614fce.jpg,0.616822429906542
+path/to/images/landscape/geyser/n09288635_1217.jpg,0.855421686746988
+path/to/images/landscape/mangrove/n12345899_15631.jpg,0.673913043478261
+path/to/images/landscape/barn/n02793495_18722.jpg,0.583333333333333
+path/to/images/landscape/wetland/3542ee5b92d38d25.jpg,0.457142857142857
+path/to/images/landscape/mangrove/n12345899_2525.jpg,0.434343434343434
+path/to/images/landscape/plantation/c7d70655b9d3206f.jpg,0.666666666666667
+path/to/images/landscape/wetland/8b5e46c0963a64ff.jpg,0.619469026548673
+path/to/images/landscape/badlands/sun_almgxeqkzurgtvxc.jpg,0.382022471910112
+path/to/images/landscape/forest (broadleaf)/sun_ahbooqazpiiakayv.jpg,0.41304347826087
+path/to/images/landscape/field/sun_avswlmagvlcsnzrk.jpg,0.635294117647059
+path/to/images/landscape/icescape/n09289331_4152.jpg,0.505747126436782
+path/to/images/landscape/mountain/n09359803_29578.jpg,0.510869565217391
+path/to/images/landscape/forest (broadleaf)/sun_aypjyavrjaodmkuu.jpg,0.3125
+path/to/images/landscape/geyser/n09288635_488.jpg,0.666666666666667
+path/to/images/landscape/plantation/d459ce6c1872157e.jpg,0.818181818181818
+path/to/images/landscape/field/n09393605_56109.jpg,0.628865979381443
+path/to/images/landscape/geyser/n09288635_12221.jpg,0.588235294117647
+path/to/images/landscape/savanna/sun_aqbpztfbkpkfbxqx.jpg,0.612244897959184
+path/to/images/landscape/shore/n09428293_16948.jpg,0.6
+path/to/images/landscape/field/sun_afhkdvryuyyjsafb.jpg,0.554347826086957
